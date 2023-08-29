@@ -55,7 +55,7 @@
         "Maintain, update, and operate Navy's global satellite telecommunications systems",
         "Drive, design and build computers, local and wide area networks in the fleet"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -96,12 +96,13 @@
       "date": "2020",
       "awarder": "Department of The Navy",
       "summary": "Awarded by her assured troubleshooting connectivity of eight laptops during a four week virtual shore tactical training for 28 trainees."
-    }
+    },
     {
       "title": "Navy and Marine Corps Achievement - Medal Gold Star In Lieu of Third Award ",
       "date": "2018-2020",
       "awarder": "Department of The Navy",
       "summary": "Awarded by her superior performance in leading five sailors, 11 indoctrination courses, 136 Welcome Aboard Messages."
+    }
   ],
   "references": [
     {
