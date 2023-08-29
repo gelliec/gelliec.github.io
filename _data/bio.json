@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Gellie Cabuyadao",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/gelliec.png",
+    "email": "gelliec@hawaii.edu",
+    "phone": "808-268-4145",
+    "website": "https://gelliec.github.io",
+    "summary": "I am studying for a B.B.A in Management Information Systems at the Shidler's College of Business, University of Hawai'i at Manoa. I enlisted in the United States Navy and was selected for the Seaman To Admiral (STA-21) commissioning program FY22. I expect to graduate and commission as a Naval Officer in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96797", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "gelliec", "url": "http://github.com/gelliec" },
+      { "network": "linkedin", "username": "gelliec", "url": "http://linkedin.com/in/gelliec" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Network Administration" },
+    { "name": "Software Engineering" },
+    { "name": "Cryptography" },
+    { "name": "Web Development" },
+    { "name": "Cyber Threat Analysis" }
   ],
   "skills": [
     {
@@ -35,9 +35,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.B.A",
+      "startDate": "2022-05-23",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,70 +45,63 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "United States Navy",
+      "position": "Information Systems Technician Second Class Petty Officer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-05-24",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "NCTSS II MGR Operator and Systems Administrator",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and operate Navy's global satellite telecommunications systems",
+        "Drive, design and build computers, local and wide area networks in the fleet"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Navy and Marine Corps Achievement Medal",
+      "date": "2018-2019",
+      "awarder": "Department of The Navy",
+      "summary": "Awarded by her coordination in nine indoctrination courses and timely delivery of 164 Welcome Aboard and Assignment messages. Ensured 100 percent compliance for 13 personnel as cybersecurity workforce coordinator."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Navy and Marine Corps Achievement - Medal Gold Star In Lieu of Second Award",
+      "date": "2020",
+      "awarder": "Department of The Navy",
+      "summary": "Awarded by her assured troubleshooting connectivity of eight laptops during a four week virtual shore tactical training for 28 trainees."
     }
+    {
+      "title": "Navy and Marine Corps Achievement - Medal Gold Star In Lieu of Third Award ",
+      "date": "2018-2020",
+      "awarder": "Department of The Navy",
+      "summary": "Awarded by her superior performance in leading five sailors, 11 indoctrination courses, 136 Welcome Aboard Messages."
   ],
   "references": [
     {
