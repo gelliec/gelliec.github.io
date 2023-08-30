@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/IMG_4017C2294110-1.jpeg
 title: "NavyCoreValues"
 date: 2023-08-29
 labels:
