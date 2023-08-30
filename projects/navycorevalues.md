@@ -8,7 +8,7 @@ labels:
   - Honor
   - Courage
   - Commitment
-summary: "The Navy's core values of "honor, courage, and commitment" represent the bedrock principles that guide sailors in upholding integrity, facing challenges with bravery, and demonstrating unwavering dedication."
+summary: "The Navy's core values of honor, courage, and commitment represent the bedrock principles that guide sailors in upholding integrity, facing challenges with bravery, and demonstrating unwavering dedication."
 ---
 
 Honor serves as the moral compass that guides every action and decision. Sailors hold themselves to the highest standards of integrity, demonstrating unwavering honesty and accountability in all endeavors. They recognize that their actions not only reflect their personal character but also the reputation of the Navy as a whole. Upholding honor means fostering an environment of trust and respect among fellow sailors and the global community, regardless of the challenges faced.
