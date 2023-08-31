@@ -4,7 +4,7 @@ type: essay
 title: "Introduction"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: false
+published: true
 labels:
   - Introduction
   - Journey
