@@ -16,7 +16,8 @@ labels:
 
 Click [HERE](https://youtu.be/9NNLx-wkQy0) for an overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
 
-![A3_Map](../img/A3_map.png)
+![A3_Map](https://github.com/gelliec/gelliec.github.io/assets/143069410/fd953499-5f6d-4031-84c8-53ba3822d610)
+
 
 ## 1. Describe your design for your site’s shopping cart.
 
