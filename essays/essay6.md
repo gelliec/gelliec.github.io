@@ -17,7 +17,7 @@ Our team designed an e-commerce store that sells nail sets, 3 unique collections
 
 ## Any notable shortcomings, bugs, problems, or additional features not implemented?
 
-- The shopping cart reverts back to zero after products quantity input have been "added to cart" therefore will not display the cumulative amount of products selected.
+The shopping cart reverts back to zero after products quantity input have been "added to cart" therefore will not display the cumulative amount of products selected.
 
 ## Describe what you are most proud of about your system:
 
@@ -59,6 +59,6 @@ c) 25%
 
 ## Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)
 
-Wendy - 42.5% Handled the basic framework of a well-designed user interface,especially since it is her website that was the most functioning e-commerce, sending email,  She handled her own IR3, and assisted me with sessions
-Scott - 42.5% Handled the framework of admin back-end, his own IR1, fixed bugs
-Gellie - 15% Handled my own IR5, fixed minimal bugs, assisted in creating user's sessions
+- Wendy: 42.5% Handled the basic framework of a well-designed user interface,especially since it is her website that was the most functioning e-commerce, sending email,  She handled her own IR3, and assisted me with sessions
+- Scott: 42.5% Handled the framework of admin back-end, his own IR1, fixed bugs
+- Gellie: 15% Handled my own IR5, fixed minimal bugs, assisted in creating user's sessions
