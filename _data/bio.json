@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Gellie Cabuyadao",
+    "label": "Student",
+    "picture": "https://github.com/gelliec.png",
+    "email": "gelliec@hawaii.edu",
+    "phone": "808-268-4145",
+    "website": "https://gelliec.github.io",
+    "summary": "I am studying for a B.B.A in Management Information Systems at the Shidler's College of Business, University of Hawai'i at Manoa. I enlisted in the United States Navy and was selected for the Seaman To Admiral (STA-21) commissioning program FY22. I expect to graduate and commission as a Naval Officer in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96797", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "gelliec", "url": "http://github.com/gelliec" },
+      { "network": "linkedin", "username": "gelliec", "url": "http://linkedin.com/in/gelliec" }
+    ]
+  },
+  "interests": [
+    { "name": "Network Administration" },
+    { "name": "Software Engineering" },
+    { "name": "Cryptography" },
+    { "name": "Web Development" },
+    { "name": "Cyber Threat Analysis" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.B.A",
+      "startDate": "2022-05-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "United States Navy",
+      "position": "Information Systems Technician Second Class Petty Officer",
+      "website": "",
+      "startDate": "2017-05-24",
+      "endDate": "Present",
+      "summary": "NCTSS II MGR Operator and Systems Administrator",
+      "highlights": [
+        "Maintain, update, and operate Navy's global satellite telecommunications systems",
+        "Drive, design and build computers, local and wide area networks in the fleet"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Navy and Marine Corps Achievement Medal",
+      "date": "2018-2019",
+      "awarder": "Department of The Navy",
+      "summary": "Awarded by her coordination in nine indoctrination courses and timely delivery of 164 Welcome Aboard and Assignment messages. Ensured 100 percent compliance for 13 personnel as cybersecurity workforce coordinator."
+    },
+    {
+      "title": "Navy and Marine Corps Achievement - Medal Gold Star In Lieu of Second Award",
+      "date": "2020",
+      "awarder": "Department of The Navy",
+      "summary": "Awarded by her assured troubleshooting connectivity of eight laptops during a four week virtual shore tactical training for 28 trainees."
+    },
+    {
+      "title": "Navy and Marine Corps Achievement - Medal Gold Star In Lieu of Third Award ",
+      "date": "2018-2020",
+      "awarder": "Department of The Navy",
+      "summary": "Awarded by her superior performance in leading five sailors, 11 indoctrination courses, 136 Welcome Aboard Messages."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
